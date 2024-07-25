@@ -1,7 +1,7 @@
 ## Cannabis Genomics Data Analysis
 
-This project involves exploring and analyzing the Cannabis genomics dataset available on Google BigQuery public data using SQL for data mining in a Python environment.
+This project explores and analyzes the Cannabis genomics dataset available on Google BigQuery public data, leveraging SQL for data mining within a Python environment.
 
-Techniques from statistics, plotly express and database systems are applied to analyze the dataset.
+Techniques from statistics, Plotly Express, and database systems are employed to analyze the dataset.
 
-This project demonstrates how to use SQL and Python to analyze a large genomics dataset. By filtering relevant columns, joining tables, and visualizing data, valuable insights into the genetics of Cannabis can be uncovered.
+By filtering relevant columns, joining tables, and visualizing data, this project demonstrates how to use SQL and Python to uncover valuable insights into the genetics of Cannabis.
