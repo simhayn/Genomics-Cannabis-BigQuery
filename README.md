@@ -1,5 +1,9 @@
 ## Cannabis Genomics Data Analysis
 
+For the interactive plots, open the 
+[notebook](https://www.kaggle.com/code/natalyyakobov/bigquery-sql-cannabis-genomics)
+in kaggle
+
 This project explores and analyzes the Cannabis genomics dataset available on Google BigQuery public data, leveraging SQL for data mining within a Python environment.
 
 Techniques from statistics, EDA, and database systems are employed to analyze the dataset. Plotly Express is utilized for interactive visualizations.
